@@ -3439,14 +3439,10 @@ div#jp-relatedposts h3.jp-relatedposts-headline {
   line-height: 1.5; }
 
 /* Jetpack - Slideshow Galleries */
-.jetpack-slideshow.slideshow-window {
-  border-radius: 0;
-  border-width: 0.66667em; }
+
 
 /* Jetpack - Sharedaddy */
-.sd-content ul li {
-  margin-bottom: 12px !important;
-  display: inline-block !important; }
+
 
 /**
  * 14.0 - Overwrites
