@@ -287,7 +287,7 @@ h1, blockquote, .dropcap, .single .entry-content:before, .page .entry-content:be
   color: #171617; }
 
 h2, h3 {
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  font-family: "Noto Serif", Georgia,'Times New Roman',Times,serif;
   font-weight: bold;
   color: #171617;
 }
@@ -1753,6 +1753,9 @@ and the top and bottom ones rotate to form an X
     content: "/"; }
   .grid__item .entry-meta {
     margin-right: 2.25em; }
+  .posted-by {
+      display: none;
+    }
 
 .entry-format:before {
   content: "/"; }
