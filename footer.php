@@ -44,14 +44,5 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <?php wp_footer(); ?>
 
-<script>
-    window.galite=window.galite||function(){(galite.q=galite.q||[]).push(arguments)};
-    galite('create', 'UA-2128031-8', 'auto');
-    galite('send', 'pageview');
-    galite('set', 'anonymizeIp', true);
-</script>
-
-<script async src="https://cdn.jsdelivr.net/npm/ga-lite@2.0.1/dist/ga-lite.min.js"></script>
-
 </body>
 </html>
