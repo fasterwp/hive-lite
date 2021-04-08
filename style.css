@@ -3511,6 +3511,9 @@ div#jp-relatedposts h3.jp-relatedposts-headline {
   left: -9999px;
   bottom: 0; }
 
+.wp-block-image img:hover {
+border: 1px solid #ddd; }
+
 /**
  * 15.0 - Hive Lite Specific Styles
  */
